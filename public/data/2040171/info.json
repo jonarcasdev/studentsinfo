@@ -1,0 +1,11 @@
+{
+    "nombre": "Carlos Fernando Dradá Hincapié",
+    "edad": 20,
+    "carrera": "Tecnologia en desarrollo de software",
+    "semestre": 3,
+    "gustos": ["Voley playa", "Anime", "Videojuegos", "Gym"],
+    "noGustos": ["Despertarse temprano", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
