@@ -1,0 +1,11 @@
+{
+    "nombre": "jonathan arboleda castro",
+    "edad": 21,
+    "carrera": "desarollo de software",
+    "semestre": 3,
+    "gustos": ["jugar", "leer", "dormir", "analizar datos"],
+    "noGustos": ["Despertarse temprano", "Ruido fuerte", "la luz"],
+    "foto": ""
+}
+
+  
