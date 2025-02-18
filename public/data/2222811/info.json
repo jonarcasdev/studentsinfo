@@ -1,0 +1,11 @@
+{
+    "nombre": "Diana Sarmiento",
+    "edad": 29,
+    "carrera": "Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Inglés-Francés", "Subir cerros", "Ir a conocer ríos", "Las motos"],
+    "noGustos": ["Las aglomeraciones", "El tráfico pesado", "Trasnochar"],
+    "foto": "https://media.licdn.com/dms/image/v2/D4E03AQEaoVfhdpnD6w/profile-displayphoto-shrink_200_200/B4EZTh9XntHcAY-/0/1738957752491?e=1745452800&v=beta&t=kZPb9KCGzZ1amZ-6WWk_L9vQY2oIerNI-CuSS6_E12s"
+}
+
+  
